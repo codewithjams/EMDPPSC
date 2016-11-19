@@ -1,0 +1,29 @@
+
+=================================================================
+The Project entitled "Ensuring Multi-level Data Privacy And Protection in Smart Cities" is done by Ankit Kumar, Shushank Kaushik, Ritwik Jamuar and Pratik Kumar as B.E. Final year project.
+
+================================================================
+This CD contains the following files/folders:
+1. Project Source Code (directory)
+2. PD1.apk
+3. Read Me.txt
+4. The PPT.pptx
+5. The Report.docx
+6. Tools Used (directory)
+
+=================================================================
+All you need to do to have the app running is:
+1. Get an Android phone
+2. Copy the PD1.apk file into your phone
+3. Locate this file in internal storage on your phone
+4. Tap to install
+5. That's it, you're done installing the app.
+
+=================================================================
+Once the app is installed, you are free to run it on your phone any time. Please follow these steps to use the app:
+1. Open the app by tapping its icon
+2. Enter the logging credentials
+3. Perform what is required
+
+=================================================================
+
